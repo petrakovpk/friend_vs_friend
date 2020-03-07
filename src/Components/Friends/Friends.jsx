@@ -15,6 +15,8 @@ class Friends extends React.Component{
 
             <div className="container-fluid">
 
+                lol
+
 
 
 

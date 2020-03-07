@@ -1,15 +1,16 @@
 import React from 'react';
 import Friends from "../Friends";
 import './App.css';
+import Navigation from "../Navigation";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
 
-          <Friends/>
+        <Navigation/>
 
-      </header>
+        <Friends/>
+
     </div>
   );
 }
