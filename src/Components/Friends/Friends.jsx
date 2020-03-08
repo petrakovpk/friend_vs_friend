@@ -1,6 +1,7 @@
 import React from 'react';
 import PersonName from "./PersonName"
 import CalcHoroButton from "./CalcHoroButton"
+import HoroMap from "./HoroMap"
 import {connect} from "react-redux";
 
 
@@ -21,7 +22,7 @@ class Friends extends React.Component{
 
                     <div className="col-md-3 offset-2">
 
-                        <PersonName/>
+                        <PersonName personType="person1"/>
 
                     </div>
 
@@ -50,6 +51,16 @@ class Friends extends React.Component{
 
                 </div>
 
+                <div className="row h-25">
+
+                    <div className="col-md-3 offset-2">
+
+                          <PersonName personType="person2"/>
+
+                    </div>
+
+                </div>
+
                  <div className="row ">
 
                      <div className="col-md-8 offset-2"  >
@@ -62,9 +73,9 @@ class Friends extends React.Component{
 
                 <div className="row ">
 
-                     <div className="col-md-4 offset-2" style={{backgroundColor: '#ffc77a'}} >
+                     <div className="col-md-4 offset-2" >
 
-                         Карта
+                         <HoroMap/>
 
                      </div>
 

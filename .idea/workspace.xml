@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b748824a-b10f-4da4-a05a-393b86c67f98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Actions/calcHoroMap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/setPersonName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Friends/PersonName/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Store/store.js" afterDir="false" />
+    <list default="true" id="b748824a-b10f-4da4-a05a-393b86c67f98" name="Default Changelist" comment="Nice">
+      <change afterPath="$PROJECT_DIR$/src/Components/Friends/HoroMap/HoroMap.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Friends/HoroMap/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actions/setHoroMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/setHoroMap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actions/setPersonName.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/setPersonName.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Friends/Friends.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Friends/Friends.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/store.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,40 +43,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/Friends/Friends.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            <state relative-caret-position="150">
+              <caret line="55" column="55" lean-forward="true" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Actions/calcHoroMap.js">
+        <entry file="file://$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="48">
+              <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Actions/setPersonName.js">
+        <entry file="file://$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="true" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="318">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,18 +95,23 @@
         <option value="$PROJECT_DIR$/src/Components/Navigation/index.js" />
         <option value="$PROJECT_DIR$/src/Components/Navigation/Navigation.jsx" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/Actions/setPersonName.js" />
-        <option value="$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js" />
         <option value="$PROJECT_DIR$/src/Components/Friends/PersonName/index.js" />
         <option value="$PROJECT_DIR$/src/Store/index.js" />
         <option value="$PROJECT_DIR$/src/Components/App/App.js" />
-        <option value="$PROJECT_DIR$/src/Store/store.js" />
-        <option value="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" />
         <option value="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/index.js" />
-        <option value="$PROJECT_DIR$/src/Components/Friends/Friends.jsx" />
-        <option value="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx" />
         <option value="$PROJECT_DIR$/src/Actions/calcHoroMap.js" />
+        <option value="$PROJECT_DIR$/src/Store/store.js" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/Map/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/Map/Map.jsx" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/HoroMap/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/Friends.jsx" />
+        <option value="$PROJECT_DIR$/src/Actions/setPersonName.js" />
+        <option value="$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js" />
+        <option value="$PROJECT_DIR$/src/Actions/setHoroMap.js" />
         <option value="$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/HoroMap/HoroMap.jsx" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx" />
       </list>
     </option>
   </component>
@@ -166,6 +165,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Components" type="462c0819:PsiDirectoryNode" />
               <item name="Friends" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+              <item name="Friends" type="462c0819:PsiDirectoryNode" />
+              <item name="CalcHoroButton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+              <item name="Friends" type="462c0819:PsiDirectoryNode" />
+              <item name="HoroMap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
@@ -243,7 +258,7 @@
       <updated>1583585429452</updated>
       <workItem from="1583585430783" duration="3651000" />
       <workItem from="1583596652688" duration="4000" />
-      <workItem from="1583704146851" duration="2179000" />
+      <workItem from="1583704146851" duration="4620000" />
     </task>
     <task id="LOCAL-00001" summary="firest">
       <created>1583586330113</created>
@@ -266,11 +281,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583588652306</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="firest">
+      <created>1583706378071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583706378072</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5834000" />
+    <option name="totallyTimeSpent" value="8275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -282,7 +304,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.29036143" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.28915662" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -291,7 +313,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49785408" weight="0.3287858" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.29036143" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5028612" side_tool="true" visible="true" weight="0.28915662" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -321,13 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Navigation/Navigation.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="121" selection-start-line="12" selection-start-column="121" selection-end-line="12" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Friends/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -342,37 +357,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/App/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Store/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Store/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -383,43 +371,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx">
+    <entry file="file://$PROJECT_DIR$/src/Store/store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="30">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Navigation/Navigation.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="121" selection-start-line="12" selection-start-column="121" selection-end-line="12" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/App/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Friends/HoroMap/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Friends/Friends.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="150">
+          <caret line="55" column="55" lean-forward="true" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Actions/setPersonName.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-end-line="8" selection-end-column="1" />
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Actions/calcHoroMap.js">
+    <entry file="file://$PROJECT_DIR$/src/Actions/setHoroMap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state>
+          <caret column="37" selection-start-column="13" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Friends/HoroMap/HoroMap.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
