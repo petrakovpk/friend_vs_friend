@@ -1,4 +1,6 @@
 import React from 'react';
+import PersonName from "./PersonName"
+import CalcHoroButton from "./CalcHoroButton"
 import {connect} from "react-redux";
 
 
@@ -14,17 +16,13 @@ class Friends extends React.Component{
         return(
 
             <div className="container-fluid">
+
                 <div className="row h-25">
 
-                    <div className="col-md-2 offset-md-2">
-                        <div className="input-group mb-3">
-                            <div className="input-group-prepend">
-                                <span className="input-group-text" id="inputGroup-sizing-default">Имя</span>
-                            </div>
-                            <input type="text" className="form-control" aria-label="Sizing example input"
-                                   aria-describedby="inputGroup-sizing-default">
-                            </input>
-                        </div>
+                    <div className="col-md-3 offset-2">
+
+                        <PersonName/>
+
                     </div>
 
                     <div className="col-md-3">
@@ -54,9 +52,9 @@ class Friends extends React.Component{
 
                  <div className="row ">
 
-                     <div className="col-md-8 offset-2" style={{backgroundColor: '#ffe6e6'}} >
+                     <div className="col-md-8 offset-2"  >
 
-                         <button type="button" className="btn btn-outline-secondary">Рассчитать карту</button>
+                       <CalcHoroButton/>
 
                      </div>
 
@@ -64,7 +62,7 @@ class Friends extends React.Component{
 
                 <div className="row ">
 
-                     <div className="col-md-4 offset-2" style={{backgroundColor: '#ffe6e6'}} >
+                     <div className="col-md-4 offset-2" style={{backgroundColor: '#ffc77a'}} >
 
                          Карта
 
