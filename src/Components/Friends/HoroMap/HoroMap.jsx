@@ -32,7 +32,7 @@ const mapStateToProps = (state) => {
          mapPersonName2: state.setHoroMapReducer.mapPersonName2,
          mapPersonName3: state.setHoroMapReducer.mapPersonName3,
          mapPersonName4: state.setHoroMapReducer.mapPersonName4,
-         mapPersonName5: state.setHoroMapReducer.mapPersonName51
+         mapPersonName5: state.setHoroMapReducer.mapPersonName5
     }
 }
 

@@ -61,9 +61,39 @@ class Friends extends React.Component{
 
                 </div>
 
+                <div className="row h-25">
+
+                    <div className="col-md-3 offset-2">
+
+                          <PersonName personType="person3"/>
+
+                    </div>
+
+                </div>
+
+                <div className="row h-25">
+
+                    <div className="col-md-3 offset-2">
+
+                          <PersonName personType="person4"/>
+
+                    </div>
+
+                </div>
+
+                <div className="row h-25">
+
+                    <div className="col-md-3 offset-2">
+
+                          <PersonName personType="person5"/>
+
+                    </div>
+
+                </div>
+
                  <div className="row ">
 
-                     <div className="col-md-8 offset-2"  >
+                     <div className="col-md-2 offset-5"  >
 
                        <CalcHoroButton/>
 
@@ -86,6 +116,18 @@ class Friends extends React.Component{
                      </div>
 
                  </div>
+
+                 <div className="row h-25">
+
+                    <div className="col-md-2 offset-5">
+
+                           <button
+                  type="button"
+                  className="btn btn-outline-secondary">Заказать карту опасностей</button>
+
+                    </div>
+
+                </div>
 
 
             </div>
