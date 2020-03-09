@@ -49,17 +49,15 @@ class PersonName extends React.Component {
 
         return(
                 <div className="input-group mb-3">
-                    <div className="input-group-prepend">
-                        <span className="input-group-text" id="inputGroup-sizing-default">Имя</span>
-                    </div>
                     <input type="text"
                            className="form-control"
-                           aria-label="Sizing example input"
+                           placeholder="Имя"
+
                            onChange = {(e) => {
                              onChange(personType, e.target.value)
                            }
                            }
-                           aria-describedby="inputGroup-sizing-default">
+                           >
                     </input>
                 </div>
         )

@@ -1,5 +1,5 @@
 import React from 'react';
-import Main from "../Main";
+import Home from "../Home";
 import './App.css';
 import Navigation from "../Navigation";
 import store from '../../Store/store.js';
@@ -12,7 +12,7 @@ function App() {
 
         <Navigation/>
 
-        <Main/>
+        <Home/>
 
     </Provider>
   );

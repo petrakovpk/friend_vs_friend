@@ -4,18 +4,18 @@ import {
     CHANGE_MAP_PERSON_NAME_3,
     CHANGE_MAP_PERSON_NAME_4,
     CHANGE_MAP_PERSON_NAME_5
-
-} from "../Actions/setHoroMap"
+} from "../Actions/setMapPersonName"
 
 const defaultState = {
-    mapPersonName1 : "",
-    mapPersonName2 : "",
-    mapPersonName3 : "",
-    mapPersonName4 : "",
-    mapPersonName5 : ""
+    mapPersonName1: "",
+    mapPersonName2: "",
+    mapPersonName3: "",
+    mapPersonName4: "",
+    mapPersonName5: "",
 }
 
-export const setHoroMapReducer = (state=defaultState, action) => {
+
+export const setMapPersonNameReducer = (state=defaultState, action) => {
 
     switch(action.type){
         case CHANGE_MAP_PERSON_NAME_1:
@@ -43,6 +43,8 @@ export const setHoroMapReducer = (state=defaultState, action) => {
                 ...state,
                 mapPersonName5: action.payload
             }
+
+
     }
 
     return state
