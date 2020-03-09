@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b748824a-b10f-4da4-a05a-393b86c67f98" name="Default Changelist" comment="Nice">
-      <change afterPath="$PROJECT_DIR$/src/Components/Friends/HoroMap/HoroMap.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Friends/HoroMap/index.js" afterDir="false" />
+    <list default="true" id="b748824a-b10f-4da4-a05a-393b86c67f98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/PersonBirthDay/PersonBirthDay.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/PersonBirthDay/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setHoroMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/setHoroMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setPersonName.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/setPersonName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Friends/Friends.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Friends/Friends.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/CalcHoroButton/CalcHoroButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/CalcHoroButton/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/Friends.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/HoroMap/HoroMap.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/HoroMap/HoroMap.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/HoroMap/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/HoroMap/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/PersonName/PersonName.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/PersonName/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/PersonName/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Friends/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,56 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/App/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Navigation/Navigation.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="121" selection-start-line="12" selection-start-column="121" selection-end-line="12" selection-end-column="121" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Friends/Friends.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="55" column="55" lean-forward="true" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx">
+        <entry file="file://$PROJECT_DIR$/src/Components/Main/Main.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -85,6 +44,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/node_modules</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -94,24 +58,30 @@
         <option value="$PROJECT_DIR$/src/Components/Friends/index.js" />
         <option value="$PROJECT_DIR$/src/Components/Navigation/index.js" />
         <option value="$PROJECT_DIR$/src/Components/Navigation/Navigation.jsx" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/Components/Friends/PersonName/index.js" />
         <option value="$PROJECT_DIR$/src/Store/index.js" />
-        <option value="$PROJECT_DIR$/src/Components/App/App.js" />
         <option value="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/index.js" />
         <option value="$PROJECT_DIR$/src/Actions/calcHoroMap.js" />
         <option value="$PROJECT_DIR$/src/Store/store.js" />
         <option value="$PROJECT_DIR$/src/Components/Friends/Map/index.js" />
         <option value="$PROJECT_DIR$/src/Components/Friends/Map/Map.jsx" />
         <option value="$PROJECT_DIR$/src/Components/Friends/HoroMap/index.js" />
-        <option value="$PROJECT_DIR$/src/Components/Friends/Friends.jsx" />
         <option value="$PROJECT_DIR$/src/Actions/setPersonName.js" />
         <option value="$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js" />
         <option value="$PROJECT_DIR$/src/Actions/setHoroMap.js" />
         <option value="$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js" />
-        <option value="$PROJECT_DIR$/src/Components/Friends/HoroMap/HoroMap.jsx" />
-        <option value="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" />
         <option value="$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/HoroMap/HoroMap.jsx" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/Friends.jsx" />
+        <option value="$PROJECT_DIR$/node_modules/air-datepicker/dist/js/datepicker.js" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/PersonBirthDay/index.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Friends/PersonBirthDay/PersonBirthDay.jsx" />
+        <option value="$PROJECT_DIR$/src/Components/Main/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/App/App.js" />
+        <option value="$PROJECT_DIR$/src/Components/Main/PersonBirthDay/PersonBirthDay.jsx" />
       </list>
     </option>
   </component>
@@ -144,12 +114,6 @@
               <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
               <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Actions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -157,42 +121,15 @@
               <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
               <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="Friends" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="Friends" type="462c0819:PsiDirectoryNode" />
-              <item name="CalcHoroButton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="Friends" type="462c0819:PsiDirectoryNode" />
-              <item name="HoroMap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Reducers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Store" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonBirthDay" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,6 +150,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -258,7 +197,7 @@
       <updated>1583585429452</updated>
       <workItem from="1583585430783" duration="3651000" />
       <workItem from="1583596652688" duration="4000" />
-      <workItem from="1583704146851" duration="4620000" />
+      <workItem from="1583704146851" duration="13950000" />
     </task>
     <task id="LOCAL-00001" summary="firest">
       <created>1583586330113</created>
@@ -288,11 +227,25 @@
       <option name="project" value="LOCAL" />
       <updated>1583706378072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Nice">
+      <created>1583708909663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583708909663</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Nice">
+      <created>1583709534697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583709534697</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8275000" />
+    <option name="totallyTimeSpent" value="17605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -304,7 +257,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.28915662" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49499285" weight="0.28674698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -312,8 +265,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49785408" weight="0.3287858" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5028612" side_tool="true" visible="true" weight="0.28915662" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49570817" weight="0.32771084" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50500715" side_tool="true" visible="true" weight="0.28674698" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -327,30 +280,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firest" />
-    <option name="LAST_COMMIT_MESSAGE" value="firest" />
+    <MESSAGE value="Nice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nice" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Components/Navigation/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/PersonName/index.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/PersonName/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="25" lean-forward="true" selection-end-line="2" selection-end-column="25" />
@@ -364,7 +301,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/index.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/CalcHoroButton/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
@@ -378,34 +315,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Navigation/Navigation.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="121" selection-start-line="12" selection-start-column="121" selection-end-line="12" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/App/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/HoroMap/index.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/HoroMap/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/Friends.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="55" column="55" lean-forward="true" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -433,26 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/HoroMap/HoroMap.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/PersonName/PersonName.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-294">
@@ -460,13 +353,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Friends/CalcHoroButton/CalcHoroButton.jsx">
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/PersonName/PersonName.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        <state relative-caret-position="243">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/HoroMap/HoroMap.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="63" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/air-datepicker/.npmignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/air-datepicker/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-8" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/air-datepicker/dist/js/datepicker.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/CalcHoroButton/CalcHoroButton.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-278">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Navigation/Navigation.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/air-datepicker/src/js/air-datepicker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/air-datepicker/dist/js/datepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#5#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/PersonBirthDay/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/air-datepicker/src/js/datepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7441">
+          <caret line="1457" column="4" selection-start-line="1457" selection-start-column="4" selection-end-line="1457" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rc-datetime-picker/dist/picker.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rc-datetime-picker/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="115" column="32" lean-forward="true" selection-start-line="112" selection-start-column="2" selection-end-line="115" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rc-datetime-picker/docs/app.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/PersonBirthDay/PersonBirthDay.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rc-datetime-picker/docs/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-715">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/App/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Main/Main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

@@ -2,6 +2,7 @@ import React from 'react';
 import PersonName from "./PersonName"
 import CalcHoroButton from "./CalcHoroButton"
 import HoroMap from "./HoroMap"
+import AirDatepicker from "./PersonBirthDay"
 import {connect} from "react-redux";
 
 
@@ -27,14 +28,7 @@ class Friends extends React.Component{
                     </div>
 
                     <div className="col-md-3">
-                        <div className="input-group mb-3">
-                            <div className="input-group-prepend">
-                                <span className="input-group-text" id="inputGroup-sizing-default">Дата рождения</span>
-                            </div>
-                            <input type="text" className="form-control" aria-label="Sizing example input"
-                                   aria-describedby="inputGroup-sizing-default">
-                            </input>
-                        </div>
+                       <AirDatepicker/>
                     </div>
 
                     <div className="col-md-2">

@@ -1,5 +1,5 @@
 import React from 'react';
-import Friends from "../Friends";
+import Main from "../Main";
 import './App.css';
 import Navigation from "../Navigation";
 import store from '../../Store/store.js';
@@ -12,7 +12,7 @@ function App() {
 
         <Navigation/>
 
-        <Friends/>
+        <Main/>
 
     </Provider>
   );
