@@ -6,7 +6,7 @@ import {
     CHANGE_MAP_PERSON_BIRTHDAY_DAY_4,
     CHANGE_MAP_PERSON_BIRTHDAY_DAY_5
 
-} from "../Actions/setMapPersonBirthday"
+} from "../Actions/setMapPersonBirthdayDay"
 
 const defaultState = {
 
@@ -17,7 +17,7 @@ const defaultState = {
     mapPersonBirthdayDay5: ""
 }
 
-export const setMapPersonBirthdayReducer = (state=defaultState, action) => {
+export const setMapPersonBirthdayDayReducer = (state=defaultState, action) => {
 
     switch(action.type){
 

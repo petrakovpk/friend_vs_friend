@@ -6,7 +6,7 @@ import{
     changePersonBirthdayDay3,
     changePersonBirthdayDay4,
     changePersonBirthdayDay5
-} from "../../../Actions/setPersonBirthday"
+} from "../../../Actions/setPersonBirthdayDay"
 import {bindActionCreators} from 'redux'
 
 
@@ -87,11 +87,11 @@ const mapStateToProps = (state) => {
 
     return{
 
-        personBirthdayDay_1: state.setPersonBirthdayReducer.personBirthdayDay_1,
-         personBirthdayDay_2: state.setPersonBirthdayReducer.personBirthdayDay_2,
-         personBirthdayDay_3: state.setPersonBirthdayReducer.personBirthdayDay_3,
-         personBirthdayDay_4: state.setPersonBirthdayReducer.personBirthdayDay_4,
-         personBirthdayDay_5: state.setPersonBirthdayReducer.personBirthdayDay_5
+        personBirthdayDay_1: state.setPersonBirthdayDayReducer.personBirthdayDay_1,
+         personBirthdayDay_2: state.setPersonBirthdayDayReducer.personBirthdayDay_2,
+         personBirthdayDay_3: state.setPersonBirthdayDayReducer.personBirthdayDay_3,
+         personBirthdayDay_4: state.setPersonBirthdayDayReducer.personBirthdayDay_4,
+         personBirthdayDay_5: state.setPersonBirthdayDayReducer.personBirthdayDay_5
     }
 }
 

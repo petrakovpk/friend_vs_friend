@@ -40,6 +40,54 @@ export const setMapPersonRelationType = (state=defaultState, action) => {
                   mapRelationType_1_3: action.payload
               }
 
+               case CHANGE_MAP_RELATION_TYPE_1_4:
+              return{
+                  ...state,
+                  mapRelationType_1_4: action.payload
+              }
+
+               case CHANGE_MAP_RELATION_TYPE_1_5:
+              return{
+                  ...state,
+                  mapRelationType_1_5: action.payload
+              }
+
+               case CHANGE_MAP_RELATION_TYPE_2_3:
+              return{
+                  ...state,
+                  mapRelationType_2_3: action.payload
+              }
+
+               case CHANGE_MAP_RELATION_TYPE_2_4:
+              return{
+                  ...state,
+                  mapRelationType_2_4: action.payload
+              }
+
+               case CHANGE_MAP_RELATION_TYPE_2_5:
+              return{
+                  ...state,
+                  mapRelationType_2_5: action.payload
+              }
+
+               case CHANGE_MAP_RELATION_TYPE_3_4:
+              return{
+                  ...state,
+                  mapRelationType_3_4: action.payload
+              }
+
+               case CHANGE_MAP_RELATION_TYPE_3_5:
+              return{
+                  ...state,
+                  mapRelationType_3_5: action.payload
+              }
+
+               case CHANGE_MAP_RELATION_TYPE_4_5:
+              return{
+                  ...state,
+                  mapRelationType_4_5: action.payload
+              }
+
       }
 
       return state;

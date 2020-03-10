@@ -4,7 +4,7 @@ import {CHANGE_PERSON_BIRTHDAY_1_DAY,
     CHANGE_PERSON_BIRTHDAY_4_DAY,
     CHANGE_PERSON_BIRTHDAY_5_DAY
 
-} from "../Actions/setPersonBirthday"
+} from "../Actions/setPersonBirthdayDay"
 
 const defaultState = {
 
@@ -16,7 +16,7 @@ const defaultState = {
 
 }
 
-export const setPersonBirthdayReducer = (state=defaultState, action) => {
+export const setPersonBirthdayDayReducer = (state=defaultState, action) => {
 
     switch(action.type) {
 

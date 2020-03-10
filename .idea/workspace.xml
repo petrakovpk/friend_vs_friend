@@ -5,30 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b748824a-b10f-4da4-a05a-393b86c67f98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Actions/setMapPersonBirthday.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/setMapPersonName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/setMapPersonRelationType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/setPersonBirthday.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/setPersonZodiacSign.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/setMapPersonNameReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/setMapPersonRelationType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/setPersonBirthdayReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/setPersonZodiacSignReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actions/setPersonBirthdayMonth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actions/setPersonBirthdayYear.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setHoroMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/CalcHoroButton/CalcHoroButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/CalcHoroButton/CalcHoroButton.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/CalcHoroButton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/CalcHoroButton/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/HoroMap/HoroMap.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/HoroMap/HoroMap.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/HoroMap/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/HoroMap/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/PersonBirthDay/PersonBirthDay.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/PersonBirthDay/PersonBirthDay.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/PersonBirthDay/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/PersonBirthDay/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/PersonName/PersonName.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/PersonName/PersonName.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/PersonName/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/PersonName/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actions/setMapPersonBirthday.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/setMapPersonBirthdayDay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actions/setPersonBirthday.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/setPersonBirthdayDay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actions/setPersonZodiacSign.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/setPersonZodiacSign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/CalcHoroButton/CalcHoroButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/CalcHoroButton/CalcHoroButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/HoroMap/HoroMap.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/HoroMap/HoroMap.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/PersonBirthDay/PersonBirthDay.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/PersonBirthDay/PersonBirthDay.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayDayReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reducers/setMapPersonRelationType.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/setMapPersonRelationType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reducers/setPersonBirthdayReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/setPersonBirthdayDayReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reducers/setPersonZodiacSignReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/setPersonZodiacSignReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/store.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,46 +29,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/App/App.js">
+        <entry file="file://$PROJECT_DIR$/src/Actions/setPersonBirthdayMonth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Home/CalcHoroButton/CalcHoroButton.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="154" column="80" lean-forward="true" selection-start-line="153" selection-start-column="6" selection-end-line="154" selection-end-column="80" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/Home/HoroMap/HoroMap.jsx">
+        <entry file="file://$PROJECT_DIR$/src/Actions/setPersonBirthdayYear.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="585">
+              <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Reducers/setMapPersonRelationType.js">
+        <entry file="file://$PROJECT_DIR$/src/Actions/setPersonBirthdayDay.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="428">
+              <caret line="45" column="1" lean-forward="true" selection-end-line="45" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -97,7 +68,12 @@
     <findStrings>
       <find>changePersonZodiacSign1</find>
       <find>consol</find>
+      <find>MONTH</find>
     </findStrings>
+    <replaceStrings>
+      <replace>MONTH</replace>
+      <replace>YEAR</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/node_modules</dir>
     </dirStrings>
@@ -108,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Components/Friends/index.js" />
         <option value="$PROJECT_DIR$/src/Components/Navigation/index.js" />
         <option value="$PROJECT_DIR$/src/Components/Navigation/Navigation.jsx" />
         <option value="$PROJECT_DIR$/src/Components/Friends/PersonName/index.js" />
@@ -137,26 +112,29 @@
         <option value="$PROJECT_DIR$/src/Components/App/App.js" />
         <option value="$PROJECT_DIR$/src/Actions/setPersonBirthday.js" />
         <option value="$PROJECT_DIR$/src/Reducers/setPersonBirthdayReducer.js" />
-        <option value="$PROJECT_DIR$/src/Components/Home/PersonBirthDay/PersonBirthDay.jsx" />
         <option value="$PROJECT_DIR$/src/Reducers/setHoroMapReducer.js" />
         <option value="$PROJECT_DIR$/src/Components/Home/PersonName/PersonName.jsx" />
         <option value="$PROJECT_DIR$/src/Components/Home/Home.jsx" />
         <option value="$PROJECT_DIR$/src/Actions/calculateZodiacSign.js" />
         <option value="$PROJECT_DIR$/src/Actions/setZodiacSign.js" />
         <option value="$PROJECT_DIR$/src/Reducers/setZodiacSignReducer.js" />
-        <option value="$PROJECT_DIR$/src/Reducers/setPersonZodiacSignReducer.js" />
-        <option value="$PROJECT_DIR$/src/Actions/setPersonZodiacSign.js" />
         <option value="$PROJECT_DIR$/src/Actions/setMapPersonName.js" />
         <option value="$PROJECT_DIR$/src/Actions/setHoroMap.js" />
         <option value="$PROJECT_DIR$/src/Actions/setMapPersonBirthday.js" />
-        <option value="$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayReducer.js" />
         <option value="$PROJECT_DIR$/src/Reducers/setMapPersonNameReducer.js" />
         <option value="$PROJECT_DIR$/src/Actions/setMapPersonRelation.js" />
         <option value="$PROJECT_DIR$/src/Actions/setMapPersonRelationType.js" />
-        <option value="$PROJECT_DIR$/src/Store/store.js" />
         <option value="$PROJECT_DIR$/src/Reducers/setMapPersonRelationType.js" />
+        <option value="$PROJECT_DIR$/src/Actions/setPersonZodiacSign.js" />
+        <option value="$PROJECT_DIR$/src/Reducers/setPersonZodiacSignReducer.js" />
+        <option value="$PROJECT_DIR$/src/Reducers/setPersonBirthdayDayReducer.js" />
+        <option value="$PROJECT_DIR$/src/Components/Home/PersonBirthDay/PersonBirthDay.jsx" />
         <option value="$PROJECT_DIR$/src/Components/Home/CalcHoroButton/CalcHoroButton.jsx" />
+        <option value="$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayReducer.js" />
+        <option value="$PROJECT_DIR$/src/Store/store.js" />
         <option value="$PROJECT_DIR$/src/Components/Home/HoroMap/HoroMap.jsx" />
+        <option value="$PROJECT_DIR$/src/Actions/setPersonBirthdayMonth.js" />
+        <option value="$PROJECT_DIR$/src/Actions/setPersonBirthdayYear.js" />
       </list>
     </option>
   </component>
@@ -226,6 +204,14 @@
               <item name="Components" type="462c0819:PsiDirectoryNode" />
               <item name="Home" type="462c0819:PsiDirectoryNode" />
               <item name="HoroMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="friend_vs_friend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonBirthDay" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="friend_vs_friend" type="b2602c69:ProjectViewProjectNode" />
@@ -308,7 +294,7 @@
       <workItem from="1583585430783" duration="3651000" />
       <workItem from="1583596652688" duration="4000" />
       <workItem from="1583704146851" duration="13950000" />
-      <workItem from="1583764436077" duration="8307000" />
+      <workItem from="1583764436077" duration="10995000" />
     </task>
     <task id="LOCAL-00001" summary="firest">
       <created>1583586330113</created>
@@ -359,11 +345,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583764609042</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Nice">
+      <created>1583777118600</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583777118600</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25912000" />
+    <option name="totallyTimeSpent" value="28600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -545,16 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Home/PersonBirthDay/PersonBirthDay.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Home/PersonName/PersonName.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -582,33 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Actions/setPersonBirthday.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Actions/setMapPersonBirthday.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Actions/setPersonZodiacSign.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reducers/setPersonZodiacSignReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#211#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/App/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -626,23 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Actions/setMapPersonRelationType.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reducers/setPersonBirthdayReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Reducers/setMapPersonNameReducer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -653,37 +592,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayReducer.js">
+    <entry file="file://$PROJECT_DIR$/src/Reducers/setMapPersonRelationType.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        <state relative-caret-position="72">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding>
-            <element signature="e#0#379#0" expanded="true" />
+            <element signature="e#0#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Actions/setMapPersonRelationType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reducers/setPersonZodiacSignReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reducers/setPersonBirthdayDayReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Actions/setMapPersonBirthdayDay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Home/CalcHoroButton/CalcHoroButton.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1752">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayDayReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#240#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Store/store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="195">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reducers/setMapPersonRelationType.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/Home/PersonBirthDay/PersonBirthDay.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Home/CalcHoroButton/CalcHoroButton.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="154" column="80" lean-forward="true" selection-start-line="153" selection-start-column="6" selection-end-line="154" selection-end-column="80" />
+        <state relative-caret-position="353">
+          <caret line="93" column="63" selection-start-line="93" selection-start-column="63" selection-end-line="93" selection-end-column="63" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -692,11 +675,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Home/HoroMap/HoroMap.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Actions/setPersonZodiacSign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-637">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Actions/setPersonBirthdayDay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="45" column="1" lean-forward="true" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Actions/setPersonBirthdayMonth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Actions/setPersonBirthdayYear.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
         </state>
       </provider>
     </entry>
