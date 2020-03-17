@@ -4,7 +4,7 @@ import {changePersonName1,
     changePersonName2,
     changePersonName3,
     changePersonName4,
-    changePersonName5} from "../../../Actions/setPersonName"
+    changePersonName5} from "../../../../Actions/setPersonName"
 import {bindActionCreators} from 'redux'
 
 

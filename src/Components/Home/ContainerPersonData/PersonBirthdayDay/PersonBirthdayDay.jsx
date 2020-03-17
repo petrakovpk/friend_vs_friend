@@ -6,12 +6,12 @@ import{
     changePersonBirthdayDay3,
     changePersonBirthdayDay4,
     changePersonBirthdayDay5
-} from "../../../Actions/setPersonBirthdayDay"
+} from "../../../../Actions/setPersonBirthdayDay"
 import {bindActionCreators} from 'redux'
 
 
 
-class AirDatepicker extends React.Component {
+class PersonBirthdayDay extends React.Component {
      constructor(props) {
         super(props);
 
@@ -51,9 +51,10 @@ class AirDatepicker extends React.Component {
 
         return (
 
-                <div className="input-group mb-3">
+
                     <input type="text"
                            className="form-control"
+
                            placeholder="День"
                            onChange = {(e) => {
                              onChangeDay(personType, e.target.value)
@@ -61,9 +62,7 @@ class AirDatepicker extends React.Component {
                            }
 
                     />
-                    <input type="text" className="form-control" placeholder="Месяц"/>
-                    <input type="text" className="form-control" placeholder="Год"/>
-                </div>
+
 
     );
   }
@@ -96,4 +95,4 @@ const mapStateToProps = (state) => {
 }
 
 
-export default connect(mapStateToProps, mapDispatchToProps)(AirDatepicker)
+export default connect(mapStateToProps, mapDispatchToProps)(PersonBirthdayDay)
