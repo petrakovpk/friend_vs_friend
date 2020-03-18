@@ -1,9 +1,10 @@
 import React from 'react';
 
 
-import ContainerPersonData from "./ContainerPersonData"
-import ContainerHoroMap from "./ContainerHoroMap"
-import ContainerHazardMap from "./ContainerHazardMap"
+import ContainerPersonData from "./ContainerPerson"
+import ContainerHoroMap from "./ContainerHoro"
+import ContainerHazardMap from "./ContainerHazard"
+import ContainerBuy from "./ContainerBuy"
 
 class Home extends React.Component {
     constructor(props) {
@@ -27,12 +28,7 @@ class Home extends React.Component {
 
                     <ContainerHazardMap/>
 
-
-
-
-
-
-
+                    <ContainerBuy/>
 
                 </div>
 
