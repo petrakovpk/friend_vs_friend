@@ -5,83 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b748824a-b10f-4da4-a05a-393b86c67f98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Actions/Hazard/setHazardHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/Hazard/setHazardPersonName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/Hazard/setHazardPersonValue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/Hazard/setHazardText.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/Horo/setMapRelationHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/Horo/setMapRelationText.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerBuy/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHazard/ButtonCalcHazardText/ButtonCalcHazardText.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHazard/ButtonCalcHazardText/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHazard/HazardMap/HazardMap.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHazard/HazardText/HazardText.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHazard/HazardText/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/ButtonCalcHazardMap/ButtonCalcHazardMap.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/ButtonCalcHazardMap/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/ButtonCalcHoroText/CalcRelationButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/ButtonCalcHoroText/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/HoroText/RelationText.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/HoroText/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/Hazard/setHazardHeaderReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/Hazard/setHazardPersonNameReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/Hazard/setHazardPersonValueReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/Hazard/setHazardTextReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/Horo/setMapRelationHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reducers/Horo/setMapRelationText.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setHazardPersonBirthdayDay.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Hazard/setHazardPersonBirthdayDay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setHazardPersonBirthdayMonth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Hazard/setHazardPersonBirthdayMonth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setHazardPersonBirthdayYear.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Hazard/setHazardPersonBirthdayYear.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setHazardPersonName.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerBuy/ContainerBuy.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setHazardPersonZodiacSign.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Hazard/setHazardPersonZodiacSign.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setMapPersonBirthdayDay.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Horo/setMapPersonBirthdayDay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setMapPersonBirthdayMonth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Horo/setMapPersonBirthdayMonth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setMapPersonBirthdayYear.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Horo/setMapPersonBirthdayYear.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setMapPersonName.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Horo/setMapPersonName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setMapPersonRelationType.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Horo/setMapPersonRelationType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setPersonBirthdayDay.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Person/setPersonBirthdayDay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setPersonBirthdayMonth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Person/setPersonBirthdayMonth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setPersonBirthdayYear.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Person/setPersonBirthdayYear.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setPersonName.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Person/setPersonName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/setPersonZodiacSign.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Person/setPersonZodiacSign.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerBuy/ModalBuyFullHazardMap/ModalBuyFullHazardMap.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerBuy/ModalBuyFullHazard/ModalBuyFullHazard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerBuy/ModalBuyFullHazardMap/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerBuy/ModalBuyFullHazard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerHazardMap/ContainerHazardMap.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHazard/ContainerHazardMap.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerHazardMap/HazardMap/HazardMap.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerHazardMap/HazardMap/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHazard/HazardMap/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerHazardMap/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHazard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerHoroMap/ContainerHoroMap.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/ContainerHoroMap.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerHoroMap/HoroMap/HoroMap.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/HoroMap/HoroMap.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerHoroMap/HoroMap/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/HoroMap/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerHoroMap/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerHoro/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/CalcHoroButton/CalcHoroButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/ButtonCalcHoroMap/CalcHoroButton.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/CalcHoroButton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/ButtonCalcHoroMap/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/ContainerPersonData.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/ContainerPersonData.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/PersonBirthdayDay/PersonBirthdayDay.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/PersonBirthdayDay/PersonBirthdayDay.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/PersonBirthdayDay/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/PersonBirthdayDay/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/PersonBirthdayMonth/PersonBirthdayMonth.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/PersonBirthdayMonth/PersonBirthdayMonth.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/PersonBirthdayMonth/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/PersonBirthdayMonth/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/PersonBirthdayYear/PersonBirthdayYear.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/PersonBirthdayYear/PersonBirthdayYear.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/PersonBirthdayYear/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/PersonBirthdayYear/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/PersonName/PersonName.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/PersonName/PersonName.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/PersonName/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/PersonName/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerPersonData/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerPerson/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayDayReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Horo/setMapPersonBirthdayDayReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayMonthReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Horo/setMapPersonBirthdayMonthReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setMapPersonBirthdayYearReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Horo/setMapPersonBirthdayYearReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setMapPersonNameReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Horo/setMapPersonNameReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setMapPersonRelationType.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Horo/setMapPersonRelationType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setPersonBirthdayDayReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Person/setPersonBirthdayDayReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setPersonBirthdayMonthReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Person/setPersonBirthdayMonthReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setPersonBirthdayYearReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Person/setPersonBirthdayYearReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setPersonNameReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Person/setPersonNameReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reducers/setPersonZodiacSignReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reducers/Person/setPersonZodiacSignReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/ContainerBuy/ModalBuyFullHazard/ModalBuyFullHazard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/ContainerBuy/ModalBuyFullHazard/ModalBuyFullHazard.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Components/Home/ContainerBuy/ModalBuyFullHazard/ModalBuyFullHazard.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="67" column="27" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
+            <state relative-caret-position="474">
+              <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -408,7 +333,7 @@
       <workItem from="1583764436077" duration="17577000" />
       <workItem from="1584278180759" duration="12000" />
       <workItem from="1584377802179" duration="2100000" />
-      <workItem from="1584441147936" duration="19003000" />
+      <workItem from="1584441147936" duration="20160000" />
     </task>
     <task id="LOCAL-00001" summary="firest">
       <created>1583586330113</created>
@@ -480,11 +405,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584441259519</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Nice">
+      <created>1584548396070</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584548396070</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56297000" />
+    <option name="totallyTimeSpent" value="57454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -908,8 +840,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Home/ContainerBuy/ModalBuyFullHazard/ModalBuyFullHazard.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="67" column="27" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
+        <state relative-caret-position="474">
+          <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
