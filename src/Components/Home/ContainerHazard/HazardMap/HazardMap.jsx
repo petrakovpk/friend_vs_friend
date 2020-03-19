@@ -22,6 +22,9 @@ class HazardMap extends React.Component {
 
         return(
             <div>
+                 <div>
+                    Март 2020
+                </div>
                 <p><ButtonCalcHazardText personType = "person1"/> {hazardPersonValue1}</p>
                 <p><ButtonCalcHazardText personType = "person2"/>{hazardPersonValue2}</p>
                 <p><ButtonCalcHazardText personType = "person3"/>{hazardPersonValue3}</p>

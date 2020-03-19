@@ -60,6 +60,10 @@ class HoroMap extends React.Component {
 
         return (
             <div>
+
+                <div>
+                    Март 2020
+                </div>
                 <div>
                     {mapPersonName1}
                     {mapPersonBirthdayDay1}

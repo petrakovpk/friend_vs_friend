@@ -13,6 +13,16 @@ const Navigation = ()=> (
                     <li className="nav-item" role="presentation"><a className="nav-link active" href="#">Заполните данные</a>
                     </li>
 
+                     <li className="nav-item" role="presentation"><a className="nav-link active" href="#">Групповой гороскоп</a>
+                    </li>
+
+                     <li className="nav-item" role="presentation"><a className="nav-link active" href="#">Карта опасностей</a>
+                    </li>
+
+                     <li className="nav-item" role="presentation"><a className="nav-link active" href="#">Поддержать проект</a>
+                    </li>
+
+
                 </ul>
             </div>
         </div>

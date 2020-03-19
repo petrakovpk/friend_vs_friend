@@ -31,7 +31,7 @@ class ModalBuyFullHazard extends React.Component {
 
     return (
         <div>
-          <button className="btn btn-outline-secondary" onClick={toggle}>Открыть карту</button>
+          <button className="btn btn-outline-secondary" onClick={toggle}>Открыть всю карту опасностей</button>
 
           <Modal
               isOpen={modal}
@@ -39,11 +39,11 @@ class ModalBuyFullHazard extends React.Component {
               className="modal-dialog modal-lg"
           >
 
-            <ModalHeader toggle={toggle}>Поддержите проект</ModalHeader>
+            <ModalHeader toggle={toggle}>Поддержать проект</ModalHeader>
 
             <ModalBody>
 
-              <p> Если ранее Вы уже поддерживали проект и у Вас есть код,
+              <p> Если Вы ранее уже поддерживали проект и у Вас есть код,
                 то введите его в поле ниже, что бы открыть ранее рассчитанную карту опасностей </p>
 
                <p><input
@@ -54,9 +54,9 @@ class ModalBuyFullHazard extends React.Component {
                >
             </input></p>
 
-              <p> <Button color="primary" onClick={toggle}>Открыть карту опасностей</Button> </p>
+              <p> <Button color="primary" onClick={toggle}> Открыть карту опасностей </Button> </p>
 
-              <p> Для получения астро-кода, поддержите наш проект на 490 рублей:
+              <p> Если Вы еще не поддерживали наш проект, то, для получения астро-кода, поддержите наш проект на 490 рублей:
               </p>
 
               <p>
@@ -78,14 +78,8 @@ class ModalBuyFullHazard extends React.Component {
               <p>Вася 14 января 1993</p>
               <p>Жора 12 февраля 1965</p>
 
-
-
-
-
-
-
-
               <p>Если что-то пошло не так, напишите нам на email, мы отвечаем в течении 24 часов</p>
+
             </ModalBody>
             <ModalFooter>
 
