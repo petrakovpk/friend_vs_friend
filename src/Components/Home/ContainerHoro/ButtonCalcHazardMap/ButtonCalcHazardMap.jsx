@@ -67,7 +67,11 @@ class ButtonCalcHazardMap extends React.Component {
                          changeHazardPersonName4(mapPersonName4);
                          changeHazardPersonName5(mapPersonName5);
 
-                         changeHazardPersonValue1(5);
+                         changeHazardPersonValue1(10);
+                         changeHazardPersonValue2(8);
+                         changeHazardPersonValue3(7);
+                         changeHazardPersonValue4(3);
+                         changeHazardPersonValue5(2);
                  }}
 
              >

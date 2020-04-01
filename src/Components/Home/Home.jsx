@@ -30,6 +30,8 @@ class Home extends React.Component {
 
                     <ContainerBuy/>
 
+
+
                 </div>
 
             )

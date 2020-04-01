@@ -1,6 +1,7 @@
 import React from "react";
 import HazardMap from "./HazardMap"
 import HazardText from "./HazardText"
+import ButtonScrollToBuy from "./ButtonScrollToBuy"
 
 class ContainerHazardMap extends React.Component {
     constructor(props) {
@@ -18,19 +19,24 @@ class ContainerHazardMap extends React.Component {
 
                 <div className="col-md-4 offset-2">
 
-                            <HazardMap/>
+                    <HazardMap/>
 
-                        </div>
+                </div>
 
-                        <div className="col-md-4">
+                <div className="col-md-4">
 
-                            <HazardText/>
+                    <HazardText/>
 
-                        </div>
+                </div>
+
+
             </div>
 
+                <div className="text-center" >
 
+                    <ButtonScrollToBuy/>
 
+                </div>
 
 
 

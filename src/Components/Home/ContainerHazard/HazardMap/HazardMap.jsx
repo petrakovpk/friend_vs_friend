@@ -23,7 +23,7 @@ class HazardMap extends React.Component {
         return(
             <div>
                  <div>
-                    Март 2020
+                    Карта будет актуальна еще: 30 дней
                 </div>
                 <p><ButtonCalcHazardText personType = "person1"/> {hazardPersonValue1}</p>
                 <p><ButtonCalcHazardText personType = "person2"/>{hazardPersonValue2}</p>

@@ -62,7 +62,7 @@ class HoroMap extends React.Component {
             <div>
 
                 <div>
-                    Март 2020
+                    Карта будет актуальна еще: 30 дней
                 </div>
                 <div>
                     {mapPersonName1}

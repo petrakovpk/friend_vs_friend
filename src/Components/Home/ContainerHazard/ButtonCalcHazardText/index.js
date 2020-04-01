@@ -1,3 +1,3 @@
-import ButtonCalcHazardText from "./ButtonCalcHazardText"
+import ButtonCalcHazardText from "./ButtonCalcHazardText";
 
 export default ButtonCalcHazardText

@@ -38,23 +38,23 @@ class ButtonCalcHazardText extends React.Component {
                     break
 
                 case "person2":
-                    changeHazardHeader("Неизветсно")
-                    changeHazardText("Закрыто. Поддержите проект, что бы открыть")
+                    changeHazardHeader("Сильная")
+                    changeHazardText("Сильная очень")
                     break
 
                 case "person3":
-                    changeHazardHeader("Неизветсно")
-                    changeHazardText("Закрыто. Поддержите проект, что бы открыть")
+                    changeHazardHeader("Слабая")
+                    changeHazardText("Слабая так себе")
                     break
 
                 case "person4":
-                    changeHazardHeader("Неизветсно")
-                    changeHazardText("Закрыто. Поддержите проект, что бы открыть")
+                    changeHazardHeader("Слабая")
+                    changeHazardText("Слабая самая")
                     break
 
                 case "person5":
-                    changeHazardHeader("Неизветсно")
-                    changeHazardText("Закрыто. Поддержите проект, что бы открыть")
+                    changeHazardHeader("Сильная")
+                    changeHazardText("Сильная самая")
                     break
 
 
